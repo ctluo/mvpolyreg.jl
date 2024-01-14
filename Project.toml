@@ -1,0 +1,4 @@
+name = "mvpolyreg"
+uuid = "c68a42f4-d687-4373-b2f0-710f9639686a"
+authors = ["rochant "]
+version = "0.1.0"
